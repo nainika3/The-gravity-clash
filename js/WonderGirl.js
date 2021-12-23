@@ -1,0 +1,3 @@
+class WonderGirl{
+    constructor()
+}
